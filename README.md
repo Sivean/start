@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset ="utf-8">
-    <title> Mozilla is Shit </title>
+    <meta charset="utf-8">
+    <title>Mozilla is Shit</title>
   </head>
   <body>
-     <img src="images/firefox-icon.png" alt="My test image">
+    <h1>Mozilla is still shit</h1>
+    <img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
+    
     <p>At Mozilla, we’re a global community of </p>
     
     <ul>
-    <li> technologists </li>
-    <li> thinkers </li>
-    <li> builders </li>
+    <li>technologists</li>
+    <li>thinkers</li>
+    <li>builders</li>
     </ul>
-    <p> Read this shit <a href="https://www.mozilla.org/en-US/about/manifesto/"> this shit </a>
     
-    </body>
+    <p>Read<a href="https://www.mozilla.org/en-US/about/manifesto/">this shit</a></p>
     
-    </html>
+ </body>
+</html>
     
        
     
